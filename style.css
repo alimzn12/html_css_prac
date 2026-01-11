@@ -371,33 +371,4 @@ nav li {
     margin-left: 5px;
 }
 
-/* ===================================
-   DESIGN TOGGLE BUTTON
-   =================================== */
 
-.design-toggle {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 9999;
-    background: white;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
-
-.design-toggle button {
-    background: #4A90E2;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 6px;
-    font-weight: 600;
-    cursor: pointer;
-    font-size: 14px;
-    transition: background 0.2s;
-}
-
-.design-toggle button:hover {
-    background: #357ABD;
-}
